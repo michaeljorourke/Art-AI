@@ -12,7 +12,7 @@ import com.google.firebase.auth.FirebaseAuth
 
 class SettingsFragment : Fragment() {
     private lateinit var binding: FragmentSettingsBinding
-
+//logout command
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?
     ): View {
